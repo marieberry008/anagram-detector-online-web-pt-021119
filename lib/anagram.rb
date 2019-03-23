@@ -1,0 +1,1 @@
+learn/rspec --fail-fast
