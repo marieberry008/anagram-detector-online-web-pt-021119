@@ -1,5 +1,5 @@
 class Anagram
-  attr_accessor :word_to_analyze
+  attr_accessor :check_word
   
   def initialize(word_to_analyze)
     @word_to_analyze = word_to_analyze 
